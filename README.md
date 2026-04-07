@@ -11,6 +11,6 @@ Realizei a análise dos testes A/A/B de uma empresa para entender se de fato a m
 ## 📦 Como instalar
 ```bash
 git clone https://github.com/jpvidotto/Analise-de-testes-A-A-B
-cd nome-do-repositorio
+cd Analise-de-testes-A-A-B
 pip install -r requirements.txt
 
